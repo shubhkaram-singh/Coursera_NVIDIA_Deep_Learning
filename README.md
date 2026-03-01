@@ -12,14 +12,13 @@ Coursera_NVIDIA_Deep_Learning
 │
 ├── Fundamentals_of_Deep_Learning
 │ ├── FDL_Quiz_Completion_1.png
-│ ├── FDL_Quiz_Completion_2.png
+│ └── FDL_Quiz_Completion_2.png
 │
 ├── Advanced_Deep_Learning_Techniques
 │ ├── ADL_Quiz_Completion_1.png
-│ ├── ADL_Quiz_Completion_2.png
+│ └── ADL_Quiz_Completion_2.png
 │
 └── NVIDIA_Deep_Learning_Certificate.png
-
 
 ## Submission Details
 
